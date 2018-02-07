@@ -6,7 +6,7 @@
 支持展示CCTV-5体育频道当天节目清单，点击节目也可以直接分享给朋友。
 支持观看比赛统计，找出自己最喜欢的体育比赛项目吧！
 
-![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg)
+![image](https://github.com/haobotiyu/haobo/blob/master/app.png)
 
 Framework
 
